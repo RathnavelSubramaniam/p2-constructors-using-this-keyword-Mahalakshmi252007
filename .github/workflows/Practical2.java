@@ -40,5 +40,4 @@ public class Practical2
         System.out.println("Discount Price : "+DiscountedPrice);
         System.out.println(Product.count);
     }
-}
-    
+}  
